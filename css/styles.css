@@ -1,24 +1,28 @@
-.silver{
-    background-color: silver;
-}
-
 .dark{
     background-color: rgb(26, 26, 26);
+}
+.row{
+    margin-top: 40px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.box{
+    height: 90%;
+    background-color: black;
+    border-radius: 2px;
 }
 
 /* Begin Nav */
 nav{
     height:100px;
 }
-nav div{
+.logo{
     height:100px;
-    background-color: black;
-    border:5px solid white;
 }
 nav section{
     height:35px;
-    background-color: black;
-    border:5px solid white;
+    margin-top: 29px;
 }
 /* End Nav */
 
@@ -28,8 +32,6 @@ header{
 }
 header section{
     height:500px;
-    background-color: black;
-    border:5px solid white;
 }
 /* End Header */
 
@@ -39,12 +41,8 @@ main{
 }
 main section{
     height:200px;
-    background-color: black;
-    border:5px solid white;
 }
 .title{
     height:35px;
-    background-color: black;
-    border:5px solid white;
 }
 /* End Main */
