@@ -1,0 +1,50 @@
+.silver{
+    background-color: silver;
+}
+
+.dark{
+    background-color: rgb(26, 26, 26);
+}
+
+/* Begin Nav */
+nav{
+    height:100px;
+}
+nav div{
+    height:100px;
+    background-color: black;
+    border:5px solid white;
+}
+nav section{
+    height:35px;
+    background-color: black;
+    border:5px solid white;
+}
+/* End Nav */
+
+/* Begin Header */
+header{
+    height: 500px;
+}
+header section{
+    height:500px;
+    background-color: black;
+    border:5px solid white;
+}
+/* End Header */
+
+/* Begin Main */
+main{
+    height:600px;
+}
+main section{
+    height:200px;
+    background-color: black;
+    border:5px solid white;
+}
+.title{
+    height:35px;
+    background-color: black;
+    border:5px solid white;
+}
+/* End Main */
