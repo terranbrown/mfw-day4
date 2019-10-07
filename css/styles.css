@@ -1,0 +1,48 @@
+.dark{
+    background-color: rgb(26, 26, 26);
+}
+.row{
+    margin-top: 40px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.box{
+    height: 90%;
+    background-color: black;
+    border-radius: 2px;
+}
+
+/* Begin Nav */
+nav{
+    height:100px;
+}
+.logo{
+    height:100px;
+}
+nav section{
+    height:35px;
+    margin-top: 29px;
+}
+/* End Nav */
+
+/* Begin Header */
+header{
+    height: 500px;
+}
+header section{
+    height:500px;
+}
+/* End Header */
+
+/* Begin Main */
+main{
+    height:600px;
+}
+main section{
+    height:200px;
+}
+.title{
+    height:35px;
+}
+/* End Main */
